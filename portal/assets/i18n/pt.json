@@ -1,0 +1,46 @@
+{
+  "TOOLBAR": {
+    "MENU_SEARCH": "Buscar",
+    "MENU_ABOUT": "Sobre",
+    "MENU_VIRTUAL_SHOP": "Loja Virtual",
+    "MENU_COMMUNICATION": "Contate-nos",
+    "MENU_OTHER": "Outra Aba",
+    "PATH_ABOUT": "teste",
+    "PATH_VIRTUAL_SHOP": "teste",
+    "PATH_COMMUNICATION": "teste",
+    "PATH_OTHER": "teste"
+  },
+  "FOOTER": {
+    "MENU_ABOUT": "Sobre nós",
+    "MENU_CONTACT": "Fale conosco",
+    "MENU_SOCIAL_NETWORKS": "Redes sociais",
+    "MENU_WHO_IS_HIMAWARI": "Quem é Himawari",
+    "MENU_OUR_PRODUCTS": "Nossos Produtos",
+    "MENU_FAQ": "Perguntas Frequentes",
+    "MENU_TALK_WITH_US": "Fale conosco",
+    "MENU_EMAIL": "Envie um e-mail",
+    "MENU_WHATSAPP": "WhatsApp",
+    "MENU_ALL_RIGTHS_RESERVED": "2020 Himawari. Todos os direitos reservados.",
+    "MENU_PHISICAL_ADRESS": "Rua Fictícia, 345. São Paulo/SP - 034560030 - CNPJ: 11.394.825/0001-54"
+  },
+  "BODY": {
+    "KNOW_OUR_PRODUCTS": "Conheça nossa linha de produtos!",
+    "MAKE_AN_BUDGET": "Entre em contato e faça um orçamento!",
+    "RECEIVE_OUR_NEWS": "Receba nossas novidades!",
+    "EMAIL_LABEL": "E-mail: ",
+    "EMAIL_PLACEHOLDER": "Ex. pat@example.com",
+    "EMAIL_HINT": "Insira um e-mail",
+    "EMAIL_ERROR_REQUIRED": "E-mail é obrigatório para inscrever-se!",
+    "EMAIL_ERROR_INVALID": "Por favor insira um e-mail válido!",
+    "SEARCH_LABEL": "Buscar",
+    "SEARCH_HINT": "Busque por termos específicos",
+    "BUTTON_BUY": "Comprar",
+    "BUTTON_SUBSCRIBE": "Inscrever-se",
+    "BUTTON_SHARE": "Compartilhar"
+  },
+  "LANGUAGE": {
+    "EN": "Inglês",
+    "PT": "Português"
+  },
+  "WORK_IN_RPOGRESS": "Em desenvolvimento"
+}

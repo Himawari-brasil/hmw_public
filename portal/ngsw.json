@@ -1,0 +1,106 @@
+{
+  "configVersion": 1,
+  "timestamp": 1607160609136,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.0bc6b3e833b507079aad.js",
+        "/manifest.webmanifest",
+        "/polyfills.4dc3b73f451c53467b36.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.4cd053ecf601d313506f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/BlackBones.2ab95223c60fa7d813bb.ttf",
+        "/assets/fonts/blackBones/BlackBones.otf",
+        "/assets/fonts/blackBones/BlackBones.ttf",
+        "/assets/i18n/en.json",
+        "/assets/i18n/pt.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/[Logo] Himawari/[Logo] Himawari.png",
+        "/assets/img/backgrounds/mel_1.jpg",
+        "/assets/img/backgrounds/mel_2.jpg",
+        "/assets/img/backgrounds/mel_3.jpg",
+        "/assets/img/logo_fundo_branco.png",
+        "/mel_1.290316204bc4989d52f8.jpg",
+        "/mel_2.c33b980789718a701a1a.jpg",
+        "/mel_3.aa25ac0aacd9cc75dede.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/BlackBones.2ab95223c60fa7d813bb.ttf": "949c8f07747a21f8970677a6481e5716ee52e5de",
+    "/assets/fonts/blackBones/BlackBones.otf": "e430e57784cd8958e4412f63abe3701883b8bb4f",
+    "/assets/fonts/blackBones/BlackBones.ttf": "949c8f07747a21f8970677a6481e5716ee52e5de",
+    "/assets/i18n/en.json": "fd5709be0eebc057964b2950f3995a0357da1e2d",
+    "/assets/i18n/pt.json": "900417594282bdb2a13298d880ce0dbcd6d4b1a0",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/[Logo] Himawari/[Logo] Himawari.png": "477ad2f2cf48008e6204059c4f96ee06e897acd8",
+    "/assets/img/backgrounds/mel_1.jpg": "aaef1aaaa0e6eedd5c330ae44d92ffeabe69c7b3",
+    "/assets/img/backgrounds/mel_2.jpg": "cd356894b4f1b63fb23b8ae447658e064b345436",
+    "/assets/img/backgrounds/mel_3.jpg": "5c6ff421c793c84f922f6e0da4140493daf2ddca",
+    "/assets/img/logo_fundo_branco.png": "477ad2f2cf48008e6204059c4f96ee06e897acd8",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "067ea3c6df0da16a9037f5cd37be2d44600757a0",
+    "/main.0bc6b3e833b507079aad.js": "86c9e7d8e8f48ab49f73686ecbe864b8c405b814",
+    "/manifest.webmanifest": "c0f48794e4b54aa09891a1fd64cc9a49b7b2bef8",
+    "/mel_1.290316204bc4989d52f8.jpg": "aaef1aaaa0e6eedd5c330ae44d92ffeabe69c7b3",
+    "/mel_2.c33b980789718a701a1a.jpg": "cd356894b4f1b63fb23b8ae447658e064b345436",
+    "/mel_3.aa25ac0aacd9cc75dede.jpg": "5c6ff421c793c84f922f6e0da4140493daf2ddca",
+    "/polyfills.4dc3b73f451c53467b36.js": "91f4e3fd70316d9cb796b0ec07e8fe7fbbf93b15",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.4cd053ecf601d313506f.css": "c10d3b8b0c42fdc021fe19cb06f822969359c160"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
