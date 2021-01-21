@@ -36,7 +36,23 @@
     "SEARCH_HINT": "Search by specific terms",
     "BUTTON_BUY": "Buy",
     "BUTTON_SUBSCRIBE": "Subscribe",
-    "BUTTON_SHARE": "Share"
+    "BUTTON_SHARE": "Share",
+    "ABOUT_US": {
+      "TITLE": "Himawari Brasil",
+      "SUBTITLES": {
+        "WHO_WE_ARE": "Who we are",
+        "MISSION": "Mission",
+        "VALUES": "Values"
+      },
+      "CONTENTS": {
+        "WHO_WE_ARE": "We are a company recently in the market founded in an pandemy season when we found the importance of natural products. It aims to spread the benefits that bee products represents in the people's health as well as in the Brazilian fauna and flora. \nThe Himawari (sunflower) was built in ethical fundamentals, regarding for quality of your products, respect for the environment and customers, as well as a strict selection in relation to the suppliers of the products. \nHimawari Brasil has two segments, one aimed at the Asian foreign market through exports (Himawari Brasil exports) and the other aimed at product sales at the national level. \nWe believe that being beautiful is being healthy! We believe that beauty is synonymous with health.",
+        "MISSION": "Be a company that adds product values to consumers.",
+        "VALUES": "We value transparency, ethics, proactivity and satisfaction."
+      }
+    },
+    "PRODUCTS_DETAIL": {
+      "BUTTON_BUY": "Buy"
+    }
   },
   "LANGUAGE": {
     "EN": "English",

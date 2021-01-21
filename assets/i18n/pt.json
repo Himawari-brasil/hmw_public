@@ -36,7 +36,23 @@
     "SEARCH_HINT": "Busque por termos específicos",
     "BUTTON_BUY": "Comprar",
     "BUTTON_SUBSCRIBE": "Inscrever-se",
-    "BUTTON_SHARE": "Compartilhar"
+    "BUTTON_SHARE": "Compartilhar",
+    "ABOUT_US": {
+      "TITLE": "Himawari Brasil",
+      "SUBTITLES": {
+        "WHO_WE_ARE": "Quem somos nós",
+        "MISSION": "Missão",
+        "VALUES": "Valores"
+      },
+      "CONTENTS": {
+        "WHO_WE_ARE": "Somos uma empresa recente no mercado nascida em época de pandemia quando observado a importância dos produtos naturais. Possui o intuito de propagar os benefícios que os produtos apículas representam na saúde das pessoas assim como na fauna e flora brasileira. \nA Himawari (girassol) foi construída em fundamentos de ética e valores prezando pela qualidade do produto, respeito ao meio ambiente e gerando benefícios aos clientes que consomem, assim como uma rígida seleção em relação aos fornecedores dos produtos. \nA Himawari Brasil possui dois segmentos, um voltado ao mercado externo asiático através de exportações (Himawari Brasil exportações) e outro voltado a comercializações de produtos a nível nacional. \nAcreditamos que ser bonito é ser saudável! Acreditamos que beleza é sinônimo de saúde.",
+        "MISSION": "Ser uma empresa que agrega valores dos produtos aos consumidores.",
+        "VALUES": "Prezamos a transparência, ética, proatividade e satisfação."
+      } 
+    },
+    "PRODUCTS_DETAIL": {
+      "BUTTON_BUY": "Comprar"
+    }
   },
   "LANGUAGE": {
     "EN": "Inglês",
