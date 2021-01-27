@@ -1,0 +1,62 @@
+{
+  "TOOLBAR": {
+    "MENU_SEARCH": "Search",
+    "MENU_ABOUT": "About",
+    "MENU_VIRTUAL_SHOP": "Shop",
+    "MENU_COMMUNICATION": "Contact Us",
+    "MENU_OTHER": "Other",
+    "PATH_ABOUT": "teste",
+    "PATH_VIRTUAL_SHOP": "teste",
+    "PATH_COMMUNICATION": "teste",
+    "PATH_OTHER": "teste"
+  },
+  "FOOTER": {
+    "MENU_ABOUT": "About us",
+    "MENU_CONTACT": "Contact us",
+    "MENU_SOCIAL_NETWORKS": "Social Networks",
+    "MENU_WHO_IS_HIMAWARI": "Who is Himawari",
+    "MENU_OUR_PRODUCTS": "Our Products",
+    "MENU_FAQ": "Frequently Asked Questions",
+    "MENU_TALK_WITH_US": "Talk with us",
+    "MENU_EMAIL": "Send e-mail",
+    "MENU_WHATSAPP": "WhatsApp",
+    "MENU_ALL_RIGTHS_RESERVED": "2020 Himawari. All Rights Reserved.",
+    "MENU_PHISICAL_ADRESS": "Ficticium adress Street, 345. São Paulo/SP - 034560030 - CNPJ: 11.394.825/0001-54"
+  },
+  "BODY": {
+    "KNOW_OUR_PRODUCTS": "Know our line of products!",
+    "MAKE_AN_BUDGET": "Contact us and make a budget!",
+    "RECEIVE_OUR_NEWS": "Receive our news: ",
+    "EMAIL_LABEL": "E-mail: ",
+    "EMAIL_PLACEHOLDER": "Ex. pat@example.com",
+    "EMAIL_HINT": "Insert an e-mail",
+    "EMAIL_ERROR_REQUIRED": "E-mail is required to subscribe",
+    "EMAIL_ERROR_INVALID": "Please insert an valid e-mail",
+    "SEARCH_LABEL": "Search",
+    "SEARCH_HINT": "Search by specific terms",
+    "BUTTON_BUY": "Buy",
+    "BUTTON_SUBSCRIBE": "Subscribe",
+    "BUTTON_SHARE": "Share",
+    "ABOUT_US": {
+      "TITLE": "Himawari Brasil",
+      "SUBTITLES": {
+        "WHO_WE_ARE": "Who we are",
+        "MISSION": "Mission",
+        "VALUES": "Values"
+      },
+      "CONTENTS": {
+        "WHO_WE_ARE": "We are a company recently in the market founded in an pandemy season when we found the importance of natural products. It aims to spread the benefits that bee products represents in the people's health as well as in the Brazilian fauna and flora. \nThe Himawari (sunflower) was built in ethical fundamentals, regarding for quality of your products, respect for the environment and customers, as well as a strict selection in relation to the suppliers of the products. \nHimawari Brasil has two segments, one aimed at the Asian foreign market through exports (Himawari Brasil exports) and the other aimed at product sales at the national level. \nWe believe that being beautiful is being healthy! We believe that beauty is synonymous with health.",
+        "MISSION": "Be a company that adds product values to consumers.",
+        "VALUES": "We value transparency, ethics, proactivity and satisfaction."
+      }
+    },
+    "PRODUCTS_DETAIL": {
+      "BUTTON_BUY": "Buy"
+    }
+  },
+  "LANGUAGE": {
+    "EN": "English",
+    "PT": "Portuguese"
+  },
+  "WORK_IN_RPOGRESS": "In Progress"
+}
